@@ -1,0 +1,7 @@
+started stdio logging in file
+Mirror launched on Sun, 03 May 2020 20:27:28 by HTTrack Website Copier/3.49-2 [XR&CO'2014]
+mirroring https://bitrose.org/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar with the wizard help..
+Done.
+Thanks for using HTTrack!
+status code 0, 2 errors, 7 warnings
+building top index to /storage/emulated/0/HTTrack/ using templates /storage/emulated/0/Android/data/com.httrack.android/cache/resources/
